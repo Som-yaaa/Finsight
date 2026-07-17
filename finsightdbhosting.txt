@@ -1,0 +1,30 @@
+MySQL DB Name	MySQL User Name	MySQL Password	MySQL Host Name	PHPMyAdmin
+if0_41150929_finsightdb	if0_41150929	(Your vPanel Password)	sql208.infinityfree.com
+
+
+MySQL DB Name- if0_41150929_finsightdb
+MySQL User Name- if0_41150929
+MySQL Password- (Your vPanel Password)- Finsight01
+MySQL Host Name- sql208.infinityfree.com
+
+
+<?php
+$servername = "localhost";
+$username = "root";
+$password = "";
+$database = "student_finance_db";
+
+
+
+<?php
+
+$servername = "sql208.infinityfree.com";  
+$username = "if0_41150929";               
+$password = "Finsight01";      
+$database = "if0_41150929_finsightdb";    
+
+
+http://finsight-app.infinityfreeapp.com
+
+
+http://localhost/student_finance/register.php
