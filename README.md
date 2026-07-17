@@ -128,8 +128,6 @@ Through this project, I gained hands-on experience with:
 
 GitHub: https://github.com/Som-yaaa
 
-LinkedIn: https://linkedin.com/in/somya-mittal
+LinkedIn: [https://linkedin.com/in/somya-mittal](https://www.linkedin.com/in/somya-mittal-91941a310?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
----
 
-## ⭐ If you found this project helpful, don't forget to star the repository!
